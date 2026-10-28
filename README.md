@@ -1,1 +1,1 @@
-# Meu Repositório de estudos git e githubj
+# Meu Repositório de estudos git e github
